@@ -2,8 +2,8 @@ body {
     background-color: lightgrey;
 }
 h1 {
-    text-align:center;
-    border-style:solid;
+    text-align: center;
+    border-style: solid;
     box-shadow: 10px 10px 8px #888888;
     background-color: white;
 }
@@ -12,7 +12,16 @@ ul {
     border-style:dotted;
     column-count: 2;
     line-height: 1.5;
+    border-color: green;
+    color: black;
 }
 p {
     background-color: darkgreen;
+    font-size:large;
+}
+h2 {
+    letter-spacing: 10px;
+    text-transform: capitalize;
+    margin-left: 75px;
+    opacity: 50%;
 }

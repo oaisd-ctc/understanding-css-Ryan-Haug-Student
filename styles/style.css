@@ -26,3 +26,7 @@ h2 {
     padding-right: 30%;
     opacity: 50%;
 }
+li:hover{
+    color: red;
+    padding-left: 1%;
+}

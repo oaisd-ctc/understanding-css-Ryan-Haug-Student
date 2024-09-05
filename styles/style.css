@@ -22,6 +22,7 @@ p {
 h2 {
     letter-spacing: 10px;
     text-transform: capitalize;
-    margin-left: 150px;
+    padding-left: 30%;
+    padding-right: 30%;
     opacity: 50%;
 }
